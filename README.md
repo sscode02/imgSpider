@@ -1,7 +1,7 @@
 # imgSpider
-imgSpider
-基于pupprteer写的图片爬虫
-基本思路
+
+# 基于pupprteer写的图片爬虫
+# 基本思路
   开启浏览器
   创建一个新的page
   输入URL进入
